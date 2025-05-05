@@ -34,9 +34,7 @@ This is a beginner-friendly JavaScript mini project that takes a number input fr
 ## 🌐 Demo
 
 Try the live demo here:  
-👉 **[Live Demo](https://your-demo-link.com)**
-
-> _(Replace the link above with your actual GitHub Pages or hosting URL)_
+👉 **[Live Demo](https://whosfatima.github.io/positive-or-negative/)**
 
 ---
 
